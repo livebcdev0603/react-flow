@@ -10,7 +10,7 @@ I used the following libraries to build this application:
 
 ## Deployment
 
-This project is live deployed at: [ReactFlow Render - Akash Gupta](https://reactflow-akash.netlify.app/)
+This project is live deployed at: [ReactFlow Render](https://react-flow-adrianliu.vercel.app/)
 
 Feel free to explore the live deployment.
 
@@ -22,7 +22,7 @@ Feel free to explore the live deployment.
 
 ## Setup and Installation
 
-1. Clone the repository to your local machine using the following command: `git clone https://github.com/akgupta20/react-flow`
+1. Clone the repository to your local machine using the following command: `git clone https://github.com/livebcdev0603/react-flow`
 
 2. Navigate to the project directory: `cd react-flow`
 
