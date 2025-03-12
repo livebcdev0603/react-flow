@@ -12,7 +12,7 @@ const Navbar = () => {
           <span
             className={styles.name}
           >
-             Akash Gupta
+             Adrian Liu
           </span>
         </span>
       </div>
